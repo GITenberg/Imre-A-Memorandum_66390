@@ -1,0 +1,33 @@
+_repo: Imre-A-Memorandum_66390
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Prime-Stevenson, Edward
+    aliases:
+    - Stevenson, Edward Irenæus
+    - Stevenson, Edward Irenaeus
+    - Stevenson, E. Irenaeus (Edward Irenaeus)
+    - Mayne, Xavier
+    - Prime-Stevenson, Edward Irenaeus
+    birthdate: 1858
+    deathdate: 1942
+    gutenberg_agent_id: '8814'
+    url: http://www.gutenberg.org/2009/agents/8814
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Irenaeus_Prime-Stevenson
+description: ''
+gutenberg_issued: '2021-09-27'
+identifiers:
+  gutenberg: '66390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Budapest (Hungary) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Gay men -- Fiction'
+- !lcsh 'Love stories'
+- GITenberg
+title: 'Imre: A Memorandum'
+url: http://www.gutenberg.org/ebooks/66390
